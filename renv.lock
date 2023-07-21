@@ -1057,18 +1057,6 @@
       ],
       "Hash": "273a6bb4a9844c296a459d2176673270"
     },
-    "packrat": {
-      "Package": "packrat",
-      "Version": "0.9.1",
-      "Source": "Repository",
-      "Repository": "RSPM",
-      "Requirements": [
-        "R",
-        "tools",
-        "utils"
-      ],
-      "Hash": "481428983c19a7c443f7ea1beff0a2de"
-    },
     "pbkrtest": {
       "Package": "pbkrtest",
       "Version": "0.5.2",
@@ -1405,28 +1393,6 @@
       ],
       "Hash": "1de7ab598047a87bba48434ba35d497d"
     },
-    "rsconnect": {
-      "Package": "rsconnect",
-      "Version": "1.0.0",
-      "Source": "Repository",
-      "Repository": "RSPM",
-      "Requirements": [
-        "R",
-        "cli",
-        "curl",
-        "digest",
-        "jsonlite",
-        "lifecycle",
-        "openssl",
-        "packrat",
-        "renv",
-        "rlang",
-        "rstudioapi",
-        "tools",
-        "yaml"
-      ],
-      "Hash": "f334565fbf2db469bfb800aa178254d1"
-    },
     "rstatix": {
       "Package": "rstatix",
       "Version": "0.7.2",
@@ -1449,13 +1415,6 @@
         "utils"
       ],
       "Hash": "5045fbb71b143878d8c51975d1d7d56d"
-    },
-    "rstudioapi": {
-      "Package": "rstudioapi",
-      "Version": "0.15.0",
-      "Source": "Repository",
-      "Repository": "RSPM",
-      "Hash": "5564500e25cffad9e22244ced1379887"
     },
     "sass": {
       "Package": "sass",
